@@ -1,0 +1,68 @@
+
+#adminImg{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.link{
+    text-decoration: none;
+    color: black;
+    padding: 10px 20px;
+}
+.sidenav{
+    background: transparent;
+}
+
+.link:hover{
+    color: #ff6500;
+}
+.a1 .active{
+    background-color:#fae3d1;
+    color:#ff6500;
+    border-left: 6px solid #ff6500;
+    padding-left: 14px;
+}
+.buttons{
+    background-color: orange;
+    text-decoration: none;
+}
+.buttons:hover{
+    background-color: orangered;
+}
+.thead{
+    background-color:#fae3d1;
+    border-bottom: 2px solid #fae3d1;
+}
+.icon{
+    color: orangered;
+    font-size: 23px;
+}
+.icon:hover{
+    color: rgb(84, 92, 92);
+}
+.title{
+    color: rgb(252, 97, 41);
+}
+#deleteModalBox{
+    width: 500px;
+    height: 200px;
+    margin: 40px auto;
+}
+#deleteModal{
+    background-color: rgb(220, 231, 199);
+    color: green;  
+    font-weight: 600;
+}
+#offcanvas{
+    width:250px;
+}
+.required{
+    color: red;
+}
+.cancelbtn{
+    border:0px solid orange;
+    background:transparent;
+    text-decoration: none;
+    padding: 0px;
+}
